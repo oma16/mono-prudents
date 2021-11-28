@@ -1,13 +1,50 @@
-body {
+*,
+*::before,
+*::after{
+  box-sizing: border-box;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+/* styles for dashboard starts*/
+.menu{
+  background: #0094D7;
+  width: 290px;
 }
+
+.menu .flex-column .nav-link{
+  display: flex;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.7);
+  padding: 20px 0;
+  margin: 0 35px;
+}
+
+.dashboard{
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.dashboard-mobile{
+  z-index: 2;
+  padding-bottom: 60px;
+}
+
+@media screen and (min-width:992px) {
+  .main-content{
+    margin-left: 310px
+  }
+}
+
+@media screen and (max-width:500px) {
+  .menu{
+    width: 100%;
+  }
+  .dashboard-mobile{
+    width: 100%;
+  }
+}
+/* dashboard ends */
