@@ -6,7 +6,7 @@ export default function AdminIndex() {
     <>
       <AdminDashboardLayout>
         <h1>
-          Hello from admin layout
+          Hello from admin layouts
         </h1>
       </AdminDashboardLayout>
     </>
