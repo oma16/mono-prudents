@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mono-prudent/static/css/main.196c1e1c.chunk.css",
+    "main.js": "/mono-prudent/static/js/main.664385b2.chunk.js",
+    "main.js.map": "/mono-prudent/static/js/main.664385b2.chunk.js.map",
+    "runtime-main.js": "/mono-prudent/static/js/runtime-main.88b4d187.js",
+    "runtime-main.js.map": "/mono-prudent/static/js/runtime-main.88b4d187.js.map",
+    "static/css/2.fa43bc9e.chunk.css": "/mono-prudent/static/css/2.fa43bc9e.chunk.css",
+    "static/js/2.d733e7a6.chunk.js": "/mono-prudent/static/js/2.d733e7a6.chunk.js",
+    "static/js/2.d733e7a6.chunk.js.map": "/mono-prudent/static/js/2.d733e7a6.chunk.js.map",
+    "static/js/3.27dc8719.chunk.js": "/mono-prudent/static/js/3.27dc8719.chunk.js",
+    "static/js/3.27dc8719.chunk.js.map": "/mono-prudent/static/js/3.27dc8719.chunk.js.map",
+    "index.html": "/mono-prudent/index.html",
+    "precache-manifest.a3ff664f3d93814a61cb916297b99b04.js": "/mono-prudent/precache-manifest.a3ff664f3d93814a61cb916297b99b04.js",
+    "service-worker.js": "/mono-prudent/service-worker.js",
+    "static/css/2.fa43bc9e.chunk.css.map": "/mono-prudent/static/css/2.fa43bc9e.chunk.css.map",
+    "static/css/main.196c1e1c.chunk.css.map": "/mono-prudent/static/css/main.196c1e1c.chunk.css.map",
+    "static/js/2.d733e7a6.chunk.js.LICENSE.txt": "/mono-prudent/static/js/2.d733e7a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88b4d187.js",
+    "static/css/2.fa43bc9e.chunk.css",
+    "static/js/2.d733e7a6.chunk.js",
+    "static/css/main.196c1e1c.chunk.css",
+    "static/js/main.664385b2.chunk.js"
+  ]
+}
